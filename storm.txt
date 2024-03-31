@@ -1,0 +1,13 @@
+
+user@WIN MINGW64 /c/Users/User/Documents/GitHub/Gitdemo (main)
+$ git gui&
+[1] 484
+
+user@WIN MINGW64 /c/Users/User/Documents/GitHub/Gitdemo (main)
+$ git checkout -b storm
+Switched to a new branch 'storm'
+
+user@WIN MINGW64 /c/Users/User/Documents/GitHub/Gitdemo (storm)
+$
+they left theit shoes 
+as a read
